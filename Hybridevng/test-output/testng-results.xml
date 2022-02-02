@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25755" started-at="2022-02-02T15:26:45 IST" finished-at="2022-02-02T15:27:10 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25755" started-at="2022-02-02T15:26:45 IST" finished-at="2022-02-02T15:27:10 IST">
+      <class name="test_scripts.LoginTestScript">
+        <test-method status="PASS" signature="open()[pri:0, instance:test_scripts.LoginTestScript@1c72da34]" name="open" is-config="true" duration-ms="4029" started-at="2022-02-02T15:26:45 IST" finished-at="2022-02-02T15:26:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="test()[pri:0, instance:test_scripts.LoginTestScript@1c72da34]" name="test" duration-ms="1176" started-at="2022-02-02T15:26:49 IST" finished-at="2022-02-02T15:26:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="close()[pri:0, instance:test_scripts.LoginTestScript@1c72da34]" name="close" is-config="true" duration-ms="20521" started-at="2022-02-02T15:26:50 IST" finished-at="2022-02-02T15:27:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- test_scripts.LoginTestScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
